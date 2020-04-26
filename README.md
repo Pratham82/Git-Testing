@@ -3,9 +3,9 @@
 
 ## Config
 ### Configure username.
-### `git config -- global user.name 'Pratham82'`
+### `git config -- global user.name 'Username'`
 ### Configure user email.
-### `git config --global user.email 'mali.prathamesh82@gmail.com`
+### `git config --global user.email 'email'`
 
 ## Initialize a repo
 ### Initialize local directory
