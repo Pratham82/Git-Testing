@@ -70,11 +70,12 @@
 ### Forcibly pushes the commits to the remote repo        
 ### `git push -f origin master `    
         
-### Any filename or extension added to this file will be ignored from staging
-### ` .gitignore `                              
-
 ### Set upstream branch
 ### `git push --set-upstream origin master`
+
+## Gitignore 
+### Any filename or extension added to this file will be ignored from staging
+### ` .gitignore `  
 
 ## Branches
 
