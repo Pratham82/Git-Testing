@@ -3,7 +3,7 @@
 
 ## Config
 ### Configure username.
-### `git config -- global user.name 'Username'`
+### `git config --global user.name 'Username'`
 ### Configure user email.
 ### `git config --global user.email 'email'`
 
