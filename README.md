@@ -28,9 +28,6 @@
 ### Commits the tracked changes and prepares them to be pushed to a remote repository.
 ### `git commit -m "Commit message"`       
 
-### Add and commit the files simultaneously.
-### `git commit -am "Commit message"`       
-
 ## Reset
 ### To remove this commit and modify the file, and commit and add the file again.     
  ###  `git reset  --soft HEAD~1`    
