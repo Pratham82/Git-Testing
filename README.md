@@ -38,6 +38,9 @@
 ### To go back to the that original version of remote repo from where its pulled.    
  ###  `git reset  --hard origin/master`    
 
+### To reset the recent commit after its pushed to remote repository.
+ ### `git revert  <commit hash>`    
+
 ## Status and logs
  ### Check the status of repo
 ### `git status`
