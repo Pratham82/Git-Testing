@@ -4,7 +4,8 @@ const User = require('../models/Users')
 //Create new user
 //Created by pratham82
 const createNewUser = async (req, res) => {
-  // destructuring the values from req.body
+  // destructuring new by prathameshedulab
+  const data = {}
   const { name, age, designation } = req.body
   const user = new User({
     name,
