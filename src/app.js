@@ -3,7 +3,8 @@ const User = require('../models/Users')
 //@GET
 //GetAll users
 // Pratham82 made changes on this line
-const getAllUsers2 = async (_, res) => {
+const getAllUsers3 = async (_, res) => {
+  let data = 'fdfdfdfdf'
   try {
     const allUsers = await User.find()
     res.json({
@@ -19,4 +20,4 @@ const getAllUsers2 = async (_, res) => {
   }
 }
 
-module.exports = getAllUsers2
+module.exports = getAllUsers3
