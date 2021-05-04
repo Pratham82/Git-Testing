@@ -2,6 +2,7 @@ const User = require('../models/Users')
 
 //@GET
 //GetAll users
+// Pratham82 made changes on this line
 const getAllUsers = async (_, res) => {
   try {
     const allUsers = await User.find()
